@@ -33,6 +33,7 @@ Lorem Ipsum
 3.  Go back into the original "git-test" folder (the repo we made first), and remove the last 2 lines of README.md (DO NOT git pull first, we're trying to simulate a merge conflict).
 4.  Add, commit and try to push your changes to master, you should get an error. 
 5. Now git pull and resolve the merge conflicts
+ *Hint: type `esc :wq!` to get out of the text editor prompt*
 6. Git add and commit the merged changes
 7. Push to the repo
 
