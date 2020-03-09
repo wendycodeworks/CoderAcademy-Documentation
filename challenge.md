@@ -37,7 +37,7 @@ Lorem Ipsum
 7. Push to the repo
 
 ## Forking
-8. Fork this github repo
+8. Fork this github repo https://github.com/mikedane/CoderAcademy-Documentation
 9. Clone the fork to your local machine
 10. Create a branch called [name]-challenge-branch
 11. Add your name to the README
